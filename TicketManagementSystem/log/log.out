@@ -1,0 +1,61 @@
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=1002, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=1, ticketStatus=dead, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=1002, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=1, ticketStatus=dead, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=, ticketPriority=low, ticketStatus=New, itimedComments=]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc003, ticketDescription=, ticketPriority=high, ticketStatus=New, itimedComments=]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=, ticketPriority=medium, ticketStatus=New, itimedComments=]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=asdasdasd, ticketPriority=medium, ticketStatus=New, itimedComments=asdasdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasdasdasdasdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdasdasddfsdfsd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=sad, ticketPriority=low, ticketStatus=New, itimedComments=asd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=1001, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=low, ticketStatus=new, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=1050, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=low, ticketStatus=new, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=low, ticketStatus=new, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=low, ticketStatus=new, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=new ticket, ticketPriority=low, ticketStatus=New, itimedComments=some comment]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc003, ticketDescription=asdas, ticketPriority=low, ticketStatus=New, itimedComments=asdasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=dummy ticket, ticketPriority=low, ticketStatus=new, itimedComments=dummy ticket for test case]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=asdsd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=asdasda, ticketPriority=low, ticketStatus=New, itimedComments=sadasd]
+2017-08-31-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=sdfdf, ticketPriority=low, ticketStatus=New, itimedComments=dfsdf]
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:Exception occured in adding ticket bean to database
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=sdasd, ticketPriority=low, ticketStatus=New, itimedComments=sdfsdf]
+2017-09-01-main--INFO -com.cg.tms.dao.TicketDAOImpl:Exception occured in adding ticket bean to database
+2017-09-02-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-09-02-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-09-02-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc002, ticketDescription=asdasd, ticketPriority=low, ticketStatus=New, itimedComments=sadasd]
+2017-09-02-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
+2017-09-13-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket method is called
+2017-09-13-main--INFO -com.cg.tms.dao.TicketDAOImpl:list ticket has retrived the list
+2017-09-13-main--INFO -com.cg.tms.dao.TicketDAOImpl:raise new ticket method is called : TicketBean [ticketNo=0, ticketCategoryId=tc001, ticketDescription=sdfsdfsdf, ticketPriority=low, ticketStatus=New, itimedComments=vrgrg]
+2017-09-13-main--INFO -com.cg.tms.dao.TicketDAOImpl:ticket is added to database
